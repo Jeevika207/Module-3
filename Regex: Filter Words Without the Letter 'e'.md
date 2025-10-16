@@ -28,6 +28,9 @@ print("Words without 'e':", l1)
 ```
 ## Output
 
+
+<img width="433" height="156" alt="image" src="https://github.com/user-attachments/assets/79e6cde2-e9fd-49fe-a409-955e2090d611" />
+
 ## Result
 
 Hence, the code is executed successfully, and all words from the list that **do not contain the letter `'e'`** are filtered and displayed correctly.
